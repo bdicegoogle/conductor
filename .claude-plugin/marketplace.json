@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-conductor",
+  "owner": {
+    "name": "bdicegoogle"
+  },
+  "plugins": [
+    {
+      "name": "conductor",
+      "source": {
+        "source": "github",
+        "repo": "bdicegoogle/claude-code-conductor"
+      },
+      "description": "Context-Driven Development: Spec → Plan → Implement",
+      "version": "1.0.0"
+    }
+  ]
+}
