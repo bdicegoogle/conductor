@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-conductor",
+  "name": "conductor",
   "owner": {
     "name": "bdicegoogle"
   },
@@ -8,7 +8,7 @@
       "name": "conductor",
       "source": {
         "source": "github",
-        "repo": "bdicegoogle/claude-code-conductor"
+        "repo": "bdicegoogle/conductor"
       },
       "description": "Context-Driven Development: Spec → Plan → Implement",
       "version": "1.0.0"
